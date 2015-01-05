@@ -112,13 +112,13 @@
    <text xml:lang="eng">
       <front>
          <div type="half_title">
-            <pb facs="tcp:033245_0000_0FF6A0250F4C2340"/>
-            <pb facs="tcp:033245_0001_0FF66B4725EC9E40"/>
+            <pb facs="unknown:033245_0000_0FF6A0250F4C2340"/>
+            <pb facs="unknown:033245_0001_0FF66B4725EC9E40"/>
             <p>THE <hi>YOUNG CHEMIST'S POCKET COMPANION.</hi>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:033245_0002_0FF69FF34639C3E8"/>
+            <pb facs="unknown:033245_0002_0FF69FF34639C3E8"/>
             <p>THE <hi>Young Chemist's Pocket Companion;</hi> CONNECTED WITH <hi>A Portable Laboratory.</hi> CONTAINING <hi>A PHILOSOPHICAL APPARATUS,</hi> AND A GREAT NUMBER OF CHEMICAL AGENTS; BY WHICH ANY PERSON MAY PERFORM AN ENDLESS VARIETY OF AMUSING AND INSTRUCTING EXPERIMENTS; INTENDED TO PROMOTE THE CULTIVATION OF THE SCIENCE OF CHEMISTRY.</p>
             <p>BY JAMES WOODHOUSE, M. D. <hi>Professor of Chemistry in the University of Pennsylvania, &amp;c.</hi>
             </p>
@@ -133,7 +133,7 @@
                <hi>Philadelphia:</hi> PRINTED BY <hi>J. H. OSWALD,</hi> NO. 179, SOUTH SECOND-STREET. 1797.</p>
          </div>
          <div type="introduction">
-            <pb facs="tcp:033245_0003_0FF69FF55CB1D728"/>
+            <pb facs="unknown:033245_0003_0FF69FF55CB1D728"/>
             <head>INTRODUCTION.</head>
             <p>
                <hi>THE Portable Chest, connected with this Book, consists of two apartments.</hi>
@@ -164,7 +164,7 @@
                   <item>11 <hi>Solution of the sulphate of copper.</hi>
                   </item>
                   <item>
-                     <pb n="vi" facs="tcp:033245_0004_0FF69FF7F7601DF0"/>
+                     <pb n="vi" facs="unknown:033245_0004_0FF69FF7F7601DF0"/>
 12 <hi>Solution of mercury in the nitric acid.</hi>
                   </item>
                   <item>13 <hi>Solution of corrosive sublimate.</hi>
@@ -205,7 +205,7 @@
                   <item>8 <hi>Brazil wood paper, stained purple by an alkali.</hi>
                   </item>
                   <item>
-                     <pb n="vii" facs="tcp:033245_0005_0FF69FF9B5CDAE80"/>
+                     <pb n="vii" facs="unknown:033245_0005_0FF69FF9B5CDAE80"/>
 9 <hi>Zinc in small pieces.</hi>
                   </item>
                   <item>10 <hi>Copper in small pieces.</hi>
@@ -253,14 +253,14 @@
                <hi>Some difficulty may be experienced by those who commence the study of Chemistry, in ob<g ref="char:EOLhyphen"/>taining the different airs over water, but fre<g ref="char:EOLhyphen"/>quent attempts will render the experimenting on this branch of the science very easy.</hi>
             </p>
             <p>
-               <pb n="viii" facs="tcp:033245_0006_0FF69FFDC5FB6AF8"/>
+               <pb n="viii" facs="unknown:033245_0006_0FF69FFDC5FB6AF8"/>
                <hi>The Chests are sold with or without the Ap<g ref="char:EOLhyphen"/>paratus, by William Woodhouse, No.</hi> 6, <hi>South Front-street, Philadelphia, at which place any article that is expended may be replaced.</hi>
             </p>
          </div>
       </front>
       <body>
          <div type="chemistry_book">
-            <pb facs="tcp:033245_0007_0FF6A00065830700"/>
+            <pb facs="unknown:033245_0007_0FF6A00065830700"/>
             <head>THE Young Chemist's Pocket Companion.</head>
             <head>Experiments.</head>
             <div type="substance">
@@ -274,7 +274,7 @@
                   <p>Add a quantity of water, equal to eight or ten times the bulk of the sulphuric acid, to the sulphuric acid and zinc, and a vio<g ref="char:EOLhyphen"/>lent commotion will begin, attended with a high degree of heat, and a discharge of hydrogenous gas.</p>
                </div>
                <div n="3" type="experiment">
-                  <pb n="10" facs="tcp:033245_0008_0FF6A0022EC66550"/>
+                  <pb n="10" facs="unknown:033245_0008_0FF6A0022EC66550"/>
                   <head>EXPERIMENT III.</head>
                   <p>Apply a lighted taper to the mouth of the vial, and an explosion will happen, or the air will burn with a lambent flame at the mouth of the vessel.</p>
                   <p>This experiment may be performed up<g ref="char:EOLhyphen"/>wards of twenty times with the same ma<g ref="char:EOLhyphen"/>terials.</p>
@@ -284,7 +284,7 @@
                   <p>Hold the mouth of the inflammable air pistol over the vial for about half a minute, shutting up the touch hole with the thumb, and the hydrogenous gas will rise into it; put in the stopper and apply a lighted ta<g ref="char:EOLhyphen"/>per to the touch hole, and an explosion will take place.</p>
                   <p>In these experiments the water is decom<g ref="char:EOLhyphen"/>posed. Its oxigene calcines the zinc, while its hydrogene is disengaged; the acid acts upon the calcined metal, without being al<g ref="char:EOLhyphen"/>tered, forming white vitriol, or sulphate of zinc.</p>
                   <p>
-                     <pb n="11" facs="tcp:033245_0009_0FF6A003EE54CF30"/>
+                     <pb n="11" facs="unknown:033245_0009_0FF6A003EE54CF30"/>
 Hydrogenous gas is fatal to animal life, extinguishes flame, will not burn without the contact of pure air, and explodes when mixed with atmospheric air, with a loud noise.</p>
                </div>
             </div>
@@ -294,7 +294,7 @@ Hydrogenous gas is fatal to animal life, extinguishes flame, will not burn witho
                   <head>EXPERIMENT V.</head>
                   <p>Put two tea spoons-full of red lead into a vial, and pour upon it a small quantity of the sulphuric acid, and a high degree of heat will be produced; connect the end of a glass syphon on which a cork is fixed, to the mouth of the vial, and dip the other ex<g ref="char:EOLhyphen"/>tremity in a large bowl, or small bucket nearly filled with water, and bubbles of air will pass through the fluid. Fill a small wide mouthed bottle with water, and hold it over the bubbles, and they will rise into it and displace the water. When the bubbles cease to come over, apply a lighted taper to the bottom of the vessel containing the red lead and sulphuric acid, and the dis<g ref="char:EOLhyphen"/>charge will begin again.</p>
                   <p>
-                     <pb n="12" facs="tcp:033245_0010_0FF6A00D37DAB8A8"/>
+                     <pb n="12" facs="unknown:033245_0010_0FF6A00D37DAB8A8"/>
 The airs which are produced are the sul<g ref="char:EOLhyphen"/>phureous and oxigenous. The sulphureous must be separated from the oxigenous gas, by agitating the two fluids in water, when the sulphureous air will be absorbed.<note n="*" place="bottom">For the method of obtaining the gases over wa<g ref="char:EOLhyphen"/>ter—see the common books on Chemistry.</note>
                   </p>
                </div>
@@ -311,7 +311,7 @@ The airs which are produced are the sul<g ref="char:EOLhyphen"/>phureous and oxi
                   <p>Put some fresh beef into a vial, and pour a small quantity of the nitric acid upon it; connect a glass syphon to the vial, and pro<g ref="char:EOLhyphen"/>ceed in the manner directed to obtain oxi<g ref="char:EOLhyphen"/>genous gas.—Or,</p>
                </div>
                <div n="8" type="experiment">
-                  <pb n="13" facs="tcp:033245_0011_0FF6A00F6ED760F8"/>
+                  <pb n="13" facs="unknown:033245_0011_0FF6A00F6ED760F8"/>
                   <head>EXPERIMENT VIII.</head>
                   <p>Expose a mixture, composed of equal parts of iron filings and sulphur, moistened with water, to a portion of atmospheric air, confined by a glass vessel over water.</p>
                   <p>The oxigenous gas of the atmospheric air will be absorbed, and the azotic air will remain behind.</p>
@@ -326,7 +326,7 @@ The airs which are produced are the sul<g ref="char:EOLhyphen"/>phureous and oxi
                <head>Of Alkalis.</head>
                <p>Alkalis have an urinous burning taste; turn most blue vegetable substances of a green colour; effervesce with certain acids, and compose neutral salts with all; form glass when melted with quartzose substan<g ref="char:EOLhyphen"/>ces, and render oils miscible with water.</p>
                <p>
-                  <pb n="14" facs="tcp:033245_0012_0FF6A011A2DFF2B0"/>
+                  <pb n="14" facs="unknown:033245_0012_0FF6A011A2DFF2B0"/>
 There are three alkalis.</p>
                <p>Pot-ash, or the vegetable fixed alkali, called also the salt of tartar and of worm<g ref="char:EOLhyphen"/>wood; soda, mineral or fossil alkali; and ammoniac or the volatile alkali, alkaline gas, or spirit of hartshorne.</p>
             </div>
@@ -335,7 +335,7 @@ There are three alkalis.</p>
                <p>Pot-ash is generally obtained by making a lye of the ashes of vegetables, evaporating the water, and calcining the combustible matter, which remains mixed with the ashes, in a high degree of heat.</p>
                <p>It may likewise be obtained very pure, by fusing the nitrate of pot-ash or salt petre with charcoal, dissolving the substance which remains behind in water, and filter<g ref="char:EOLhyphen"/>ing it through paper. When pure pot-ash is exposed to the air, it attracts a large por<g ref="char:EOLhyphen"/>tion of moisture, and is resolved into a li<g ref="char:EOLhyphen"/>quor called the oil of tartar per deliquium.</p>
                <p>The common pot-ash of the shops con<g ref="char:EOLhyphen"/>tains a large portion of carbonic acid, or
-<pb n="15" facs="tcp:033245_0013_0FF6A013C72193A8"/>
+<pb n="15" facs="unknown:033245_0013_0FF6A013C72193A8"/>
 fixed air, which causes it to effervesce upon the addition of an acid.</p>
                <div n="10" type="experiment">
                   <head>EXPERIMENT X.</head>
@@ -346,7 +346,7 @@ fixed air, which causes it to effervesce upon the addition of an acid.</p>
                <div n="11" type="experiment">
                   <head>EXPERIMENT XI.</head>
                   <p>Put some of the solution of caustic pot<g ref="char:EOLhyphen"/>ash into a wine-glass, and add a few drops
-<pb n="16" facs="tcp:033245_0014_0FF6A0184CE88508"/>
+<pb n="16" facs="unknown:033245_0014_0FF6A0184CE88508"/>
 of any of the acids in the Chest to it, and no effervescence will take place.</p>
                </div>
             </div>
@@ -358,7 +358,7 @@ of any of the acids in the Chest to it, and no effervescence will take place.</p
                <p>Soda differs from pot-ash; because it is less caustic; does not attract moisture from the atmosphere, but effloresces in it; crys<g ref="char:EOLhyphen"/>tallizes in rhomboidal octahedrons; forms different products with the same bases and is more proper for vitrification.</p>
             </div>
             <div type="substance">
-               <pb n="17" facs="tcp:033245_0015_0FF6A01E89EFCED8"/>
+               <pb n="17" facs="unknown:033245_0015_0FF6A01E89EFCED8"/>
                <head>Of Ammoniac, the Volatile Alkali, or Alka<g ref="char:EOLhyphen"/>line Gas.</head>
                <p>Ammoniac is generally obtained from the distillation of animal substances.</p>
                <p>It may be procured in a very pure state, by distilling equal parts of sifted quick lime and the muriate of ammoniac or common sal ammoniac together, in a glass retort, to which a receiver must be connected, hold<g ref="char:EOLhyphen"/>ing a portion of water, correspondent to the weight of the salt employed.</p>
@@ -370,7 +370,7 @@ of any of the acids in the Chest to it, and no effervescence will take place.</p
                   <head>EXPERIMENT XIII.</head>
                   <p>Add a few drops of the solution of pot-ash, or a few grains of lime or pot-ash mois<g ref="char:EOLhyphen"/>tened with water, to the sal ammoniac, and a smell of alkaline gas will be produced.</p>
                   <p>The pot-ash or lime unites to the muria<g ref="char:EOLhyphen"/>tic acid of the sal ammoniac and forms a
-<pb n="18" facs="tcp:033245_0016_0FF6A02131BAE948"/>
+<pb n="18" facs="unknown:033245_0016_0FF6A02131BAE948"/>
 muriate of pot-ash or lime, while the am<g ref="char:EOLhyphen"/>moniac or volatile alkali is set at liberty.</p>
                </div>
                <div n="14" type="experiment">
@@ -381,7 +381,7 @@ muriate of pot-ash or lime, while the am<g ref="char:EOLhyphen"/>moniac or volat
                   <p>The common method of determining the presence of the alkalis, is by the effect they have of changing the generality of blue vege<g ref="char:EOLhyphen"/>table substances to a green color.</p>
                   <p>Indigo and litmus are exceptions to this law.</p>
                   <p>An alkaline salt may also be detected, by paper stained yellow by the tincture of tur<g ref="char:EOLhyphen"/>meric or rhubarb, which it changes to a
-<pb n="19" facs="tcp:033245_0017_0FF66B41C8ED7238"/>
+<pb n="19" facs="unknown:033245_0017_0FF66B41C8ED7238"/>
 brown colour; or by litmus paper turned red in an acid which will be restored to its original blue colour; or by paper stained red by a decoction of Brazil wood, which will be changed to a purple color.</p>
                </div>
                <div n="15" type="experiment">
@@ -401,7 +401,7 @@ brown colour; or by litmus paper turned red in an acid which will be restored to
                   <p>Add some of the solution of pot-ash or soda, or a few drops of ammoniac to the water, and dip the paper into it, and the yellow color will be turned to a brown.</p>
                </div>
                <div n="19" type="experiment">
-                  <pb n="20" facs="tcp:033245_0018_0FF6A027C75E8538"/>
+                  <pb n="20" facs="unknown:033245_0018_0FF6A027C75E8538"/>
                   <head>EXPERIMENT XIX.</head>
                   <p>Dip a piece of the litmus paper, turned red by an acid, into a wine glass containing water, and no alteration will take place.</p>
                </div>
@@ -421,7 +421,7 @@ brown colour; or by litmus paper turned red in an acid which will be restored to
             <div type="substance">
                <head>Of Acids.</head>
                <p>Acids have a sour taste, turn certain blue vegetable substances of a red color,<note n="*" place="bottom">Indigo is an exception</note> and ef<g ref="char:EOLhyphen"/>fervesce with the mild alkalis. This proper<g ref="char:EOLhyphen"/>ty
-<pb n="21" facs="tcp:033245_0019_0FF6A02B0E560370"/>
+<pb n="21" facs="unknown:033245_0019_0FF6A02B0E560370"/>
 of effervescing is not general, for the car<g ref="char:EOLhyphen"/>bonic, and allmost all the weak acids, can<g ref="char:EOLhyphen"/>not be distinguished in this manner, and the caustic alkalis combine with the acids with<g ref="char:EOLhyphen"/>out motion.</p>
                <p>An acid will likewise change turmeric paper, turned brown by an alkali, to its o<g ref="char:EOLhyphen"/>riginal yellow, or Brazil wood paper turn<g ref="char:EOLhyphen"/>ed purple by an alkali, to its pristine red color.</p>
                <div n="23" type="experiment">
@@ -434,7 +434,7 @@ of effervescing is not general, for the car<g ref="char:EOLhyphen"/>bonic, and a
                   <p>Litmus paper may be made, by dipping the rag containing litmus into water, and rubbing it over the paper.</p>
                </div>
                <div n="25" type="experiment">
-                  <pb n="22" facs="tcp:033245_0020_0FF6A02D2E799D10"/>
+                  <pb n="22" facs="unknown:033245_0020_0FF6A02D2E799D10"/>
                   <head>EXPERIMENT XXV.</head>
                   <p>Dip a piece of the turmeric paper, stain<g ref="char:EOLhyphen"/>ed brown by an alkali, into a wine glass con<g ref="char:EOLhyphen"/>taining water, and no change will take place.</p>
                </div>
@@ -453,7 +453,7 @@ of effervescing is not general, for the car<g ref="char:EOLhyphen"/>bonic, and a
                </div>
             </div>
             <div type="substance">
-               <pb n="23" facs="tcp:033245_0021_0FF6A02EEE615A20"/>
+               <pb n="23" facs="unknown:033245_0021_0FF6A02EEE615A20"/>
                <head>Of the Carbonic Acid, called also the Creta<g ref="char:EOLhyphen"/>ceous Acid, Acid of Chalk and Fixed Air.</head>
                <div n="29" type="experiment">
                   <head>EXPERIMENT XXIX.</head>
@@ -464,7 +464,7 @@ of effervescing is not general, for the car<g ref="char:EOLhyphen"/>bonic, and a
                   <head>EXPERIMENT XXX.</head>
                   <p>Put some powdered lime-stone or chalk into a tumbler, and pour upon it a small quantity of the sulphuric acid diluted with water, and immediately immerse a lighted taper in the tumbler, and it will instantly be extinguished.</p>
                   <p>The carbonic acid is so much heavier than common atmospheric air, that it may be poured like water, from one vessel into
-<pb n="24" facs="tcp:033245_0022_0FF6A030CD176508"/>
+<pb n="24" facs="unknown:033245_0022_0FF6A030CD176508"/>
 another; it is improper for combustion or animal life; forms neutral salts with the al<g ref="char:EOLhyphen"/>kalis, and is absorbed by water.</p>
                   <p>It is used to detect the presence of lime, with which it forms a white insoluble com<g ref="char:EOLhyphen"/>pound.</p>
                </div>
@@ -479,7 +479,7 @@ another; it is improper for combustion or animal life; forms neutral salts with 
                <p>The sulphuric acid is obtained by burn<g ref="char:EOLhyphen"/>ing a mixture, composed of one eighth part of nitre, and one of sulphur, in a large chamber lined with lead.</p>
                <p>A quantity of water is placed on the floor, to absorb the acid vapors.</p>
                <p>
-                  <pb n="25" facs="tcp:033245_0023_0FF6A03519985670"/>
+                  <pb n="25" facs="unknown:033245_0023_0FF6A03519985670"/>
 The nitre yields pure air to the sulphur, by which means it is converted into the vi<g ref="char:EOLhyphen"/>triolic acid.</p>
                <p>The sulphuric acid is unctuous to the touch; hence it is called the oil of vitriol. It acts strongly on combustible bodies, and is decomposed by combining with them.</p>
                <div n="32" type="experiment">
@@ -492,7 +492,7 @@ The nitre yields pure air to the sulphur, by which means it is converted into th
                   <p>Put some sweet oil into a vial, and pour upon it a small quantity of the sulphuric acid; connect a glass syphon to the vial, and proceed in the manner directed to obtain oxigenous gas.</p>
                </div>
                <div n="34" type="experiment">
-                  <pb n="26" facs="tcp:033245_0024_0FF6A03836089888"/>
+                  <pb n="26" facs="unknown:033245_0024_0FF6A03836089888"/>
                   <head>EXPERIMENT XXXIV.</head>
                   <p>Immerse a lighted taper in the sulphure<g ref="char:EOLhyphen"/>ous gas, and it will be extinguished.</p>
                </div>
@@ -508,7 +508,7 @@ The nitre yields pure air to the sulphur, by which means it is converted into th
                <div n="36" type="experiment">
                   <head>EXPERIMENT XXXVI.</head>
                   <p>Put a few grains of powdered nitre into a wine glass, and add a few drops of the sul<g ref="char:EOLhyphen"/>phuric
-<pb n="27" facs="tcp:033245_0025_0FF6A03CB0BEE990"/>
+<pb n="27" facs="unknown:033245_0025_0FF6A03CB0BEE990"/>
 acid to it, and the nitre will be de<g ref="char:EOLhyphen"/>composed.</p>
                   <p>The sulphuric acid unites to the pot ash of the nitre, and forms sulphate of pot ash, while the nitric acid is detached from its al<g ref="char:EOLhyphen"/>kaline base, and escapes in the form of fumes.</p>
                </div>
@@ -521,7 +521,7 @@ acid to it, and the nitre will be de<g ref="char:EOLhyphen"/>composed.</p>
                <div n="38" type="experiment">
                   <head>EXPERIMENT XXXVIII.</head>
                   <p>Add about half an ounce of the sulphu<g ref="char:EOLhyphen"/>ric acid, to the same quantity of nitric acid in a wine glass, fixed to the extremity of a stick, about three feet long. Pour the
-<pb n="28" facs="tcp:033245_0026_0FF6A040F5465228"/>
+<pb n="28" facs="unknown:033245_0026_0FF6A040F5465228"/>
 mixture suddenly, but at different times, upon half a gill of the oil of turpentine, or upon half an ounce of the rectified oil of amber, and inflammation will immediately take place.</p>
                   <p>The temperature of the weather, has a most powerful influence upon this experi<g ref="char:EOLhyphen"/>ment. When the atmosphere is moist or cold, it will not always succeed. When this is the case, it is necessary to give the vessel which contains the oil, a moderate degree of heat.</p>
                </div>
@@ -530,7 +530,7 @@ mixture suddenly, but at different times, upon half a gill of the oil of turpent
                   <p>Put one drachm of lamp-black, or three drachms of charcoal, reduced to a very fine powder, and dried by the fire, into a clean dry vessel. Pour the nitric acid upon the coal, in such a manner, that it may trickle down the sides of the vessel, and in a short time inflammation will take place, and the coal will be thrown upwards, in the form of a beautiful rocket.</p>
                </div>
                <div n="40" type="experiment">
-                  <pb n="29" facs="tcp:033245_0027_0FF6A042B3E508C0"/>
+                  <pb n="29" facs="unknown:033245_0027_0FF6A042B3E508C0"/>
                   <head>EXPERIMENT XL.</head>
                   <p>Put a piece of zinc into a wine glass, and add a small quantity of the nitric acid to it, and a violent action will ensue, accompa<g ref="char:EOLhyphen"/>nied with a discharge of nitrous gas, which assumes a red color, by combining with the oxigene air of the atmosphere.</p>
                   <p>Nitrous air is neither acid nor alkaline; puts out a taper, and is fatal to animal life.</p>
@@ -544,7 +544,7 @@ mixture suddenly, but at different times, upon half a gill of the oil of turpent
                   <head>EXPERIMENT XLI.</head>
                   <p>Put a live coal upon a shovel, and add some nitre to it, and the coal will burn in a rapid manner.</p>
                   <p>
-                     <pb n="30" facs="tcp:033245_0028_0FF6A04548489718"/>
+                     <pb n="30" facs="unknown:033245_0028_0FF6A04548489718"/>
 In this case, the nitric acid of the nitre, which is composed of oxigenous and azotic gas, is decomposed; the oxigene unites to the coal, and forms the carbonic acid; the azotic gas and water of the nitre are dissi<g ref="char:EOLhyphen"/>pated; the pot-ash remains on the shovel.</p>
                   <p>Gun-powder is made of nitre, sulphur and charcoal.</p>
                </div>
@@ -555,7 +555,7 @@ In this case, the nitric acid of the nitre, which is composed of oxigenous and a
                   <p>Fulminating powder is formed of nitre, pot-ash and sulphur.</p>
                </div>
                <div n="43" type="experiment">
-                  <pb n="31" facs="tcp:033245_0029_0FF6A04704618D30"/>
+                  <pb n="31" facs="unknown:033245_0029_0FF6A04704618D30"/>
                   <head>EXPERIMENT XLIII.</head>
                   <p>Triturate three parts by weight of nitre, two of pot-ash and one of sulphur together in a dry mortar; expose about half a drachm of this powder on a shovel to a gentle heat, and soon after the mixture begins to melt, an explosion will happen.</p>
                   <p>When fulminating powder is heated, the sulphur unites to the pot-ash of the nitre, and forms sulphure of pot-ash before deto<g ref="char:EOLhyphen"/>nising. Sulphurated hydrogene gas is dis<g ref="char:EOLhyphen"/>engaged from the sulphure of pot-ash, and oxigenous gas from the nitre. These two airs unite, and are inflamed by a part of the sulphur which kindles by itself. They strike the atmospheric air with such ra<g ref="char:EOLhyphen"/>pidity, that it resists them in the same man<g ref="char:EOLhyphen"/>ner, as the sides of a gun barrel resists gun powder.</p>
@@ -564,7 +564,7 @@ In this case, the nitric acid of the nitre, which is composed of oxigenous and a
             <div type="substance">
                <head>Of the Muriatic, or Marine Acid, called also the Spirit of Salt.</head>
                <p>The muriatic acid is obtained, by distill<g ref="char:EOLhyphen"/>ing one part by weight of sulphuric acid and
-<pb n="32" facs="tcp:033245_0030_0FF6A04C1645A900"/>
+<pb n="32" facs="unknown:033245_0030_0FF6A04C1645A900"/>
 two parts of common salt together in a glass retort, to which a receiver is adapted, con<g ref="char:EOLhyphen"/>taining water, to absorb the acid fumes.</p>
                <p>The muriatic acid is lighter than the sulphuric or nitric acids; has a strong pun<g ref="char:EOLhyphen"/>gent smell; emits white vapors, and preci<g ref="char:EOLhyphen"/>pitates silver from its solution in the form of a white compound.</p>
                <div n="44" type="experiment">
@@ -577,7 +577,7 @@ two parts of common salt together in a glass retort, to which a receiver is adap
                   <head>EXPERIMENT XLV.</head>
                   <p>Hold the glass stopper of the bottle con<g ref="char:EOLhyphen"/>taining the ammoniac, over the surface of the common salt, after the sulphuric acid is added to it, and white clouds will be formed.</p>
                   <p>
-                     <pb n="33" facs="tcp:033245_0031_0FF6A04E6DA64780"/>
+                     <pb n="33" facs="unknown:033245_0031_0FF6A04E6DA64780"/>
 The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am<g ref="char:EOLhyphen"/>moniac, or common sal ammoniac.</p>
                </div>
                <div n="46" type="experiment">
@@ -595,7 +595,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                <head>Of the Oxalic Acid, or Acid of Sugar.</head>
                <p>The oxalic acid is made by oxigenating sugar, with the nitric acid.</p>
                <div n="48" type="experiment">
-                  <pb n="34" facs="tcp:033245_0032_0FF6A05099EC90F0"/>
+                  <pb n="34" facs="unknown:033245_0032_0FF6A05099EC90F0"/>
                   <head>EXPERIMENT XLVIII.</head>
                   <p>Put half an ounce of loaf sugar into a six ounce vial, and pour four ounces of nitric acid upon it. Set the mixture near the fire and it will boil, and a great discharge of nitrous gas will be thrown out. When this ceases, pour the liquor into a common queen's ware saucer; evaporate one half of it by placing the saucer on live coals; and then put the vessel in a cool place for a few hours, and crystals of the oxalic acid will be deposited. Separate these crystals from the liquor which swims above them, and dis<g ref="char:EOLhyphen"/>solve them in two ounces of rain water. The supernatant liquor must be again eva<g ref="char:EOLhyphen"/>porated, and set in a cool place, and more crystals will be obtained.</p>
                   <p>It is used like the carbonic acid, to de<g ref="char:EOLhyphen"/>tect the presence of lime.</p>
@@ -606,7 +606,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                </div>
             </div>
             <div type="substance">
-               <pb n="35" facs="tcp:033245_0033_0FF6A052DBB984D8"/>
+               <pb n="35" facs="unknown:033245_0033_0FF6A052DBB984D8"/>
                <head>Of Lime.</head>
                <p>Lime is soluble in seven hundred times its weight of water, has a penetrating and acrid taste, absorbs water with avidity, and crumbles into powder</p>
                <div n="50" type="experiment">
@@ -621,7 +621,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                </div>
             </div>
             <div type="substance">
-               <pb n="36" facs="tcp:033245_0034_0FF6A056268728C0"/>
+               <pb n="36" facs="unknown:033245_0034_0FF6A056268728C0"/>
                <head>Of Barytes, or Ponderous Earth.</head>
                <p>Barytes is soluble in nine hundred times its weight of water; is precipitated from its combination with the nitric and muriatic a<g ref="char:EOLhyphen"/>cids by the prussiate of pot-ash, by which circumstance it is distinguished from the o<g ref="char:EOLhyphen"/>ther earths: and it has the property of preci<g ref="char:EOLhyphen"/>pitating the alkalis from their combination with acids.</p>
                <p>The muriated barytes is used as a test, for detecting the presence of the sulphuric acid.</p>
@@ -632,7 +632,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                </div>
             </div>
             <div type="substance">
-               <pb n="37" facs="tcp:033245_0035_0FF6A058567A8FF8"/>
+               <pb n="37" facs="unknown:033245_0035_0FF6A058567A8FF8"/>
                <head>Of Magnesia.</head>
                <p>Magnesia is a white, friable and spongy earth, is insoluble in water, and tinges cer<g ref="char:EOLhyphen"/>tain blue vegetable substances, of a slight green color.</p>
                <p>Sulphate of magnesia, or Epsom salt, is composed of the sulphuric acid and magnesia.</p>
@@ -651,7 +651,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                </div>
             </div>
             <div type="substance">
-               <pb n="38" facs="tcp:033245_0036_0FF6A05A73E216D8"/>
+               <pb n="38" facs="unknown:033245_0036_0FF6A05A73E216D8"/>
                <head>Of Alumine, Pure Clay, or Argillaceous Earth.</head>
                <p>When alumine is exposed to heat, it dries, contracts and becomes full of clefts; combined with the sulphuric acid it forms sulphate of alumine or common alum.</p>
                <div n="56" type="experiment">
@@ -669,7 +669,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                </div>
             </div>
             <div type="substance">
-               <pb n="39" facs="tcp:033245_0037_0FF6A05CED627438"/>
+               <pb n="39" facs="unknown:033245_0037_0FF6A05CED627438"/>
                <head>Of Zinc.</head>
                <p>Zinc is a metallic substance of a blue white color, which may be easily reduced to powder, if it is first heated, and then pounded in a mortar.</p>
                <p>The sulphuric acid diluted with water, and the muriatic acid act powerfully upon it, producing hydrogenous gas.</p>
@@ -679,7 +679,7 @@ The muriatic acid of the salt, unites with the ammoniac, and forms muriate of am
                   <p>Put a piece of zinc into a wine glass, and add to it some of the sulphuric acid di<g ref="char:EOLhyphen"/>luted with eight or ten times its bulk of wa<g ref="char:EOLhyphen"/>ter, and a discharge of hydrogenous gas will take place. When this ceases, pour in some of the solution of pot-ash, and a white precipitate will be thrown down.</p>
                   <p>The salt formed by the union of the sul<g ref="char:EOLhyphen"/>phuric acid and zinc, is the sulphate of zinc or white vitriol.</p>
                   <p>
-                     <pb n="40" facs="tcp:033245_0038_0FF6A061F6968C60"/>
+                     <pb n="40" facs="unknown:033245_0038_0FF6A061F6968C60"/>
 When the pot-ash is added, it unites to the sulphuric acid, and forms sulphate of pot-ash, and the zinc is precipitated.</p>
                </div>
                <div n="60" type="experiment">
@@ -697,7 +697,7 @@ When the pot-ash is added, it unites to the sulphuric acid, and forms sulphate o
                <p>The acetate of lead, or sugar of lead, is composed of the acetic acid and lead.</p>
                <p>This salt is decomposed by the alkalis, and by the oxalic and vitriolic acids.</p>
                <div n="62" type="experiment">
-                  <pb n="41" facs="tcp:033245_0039_0FF6A063B3B8B130"/>
+                  <pb n="41" facs="unknown:033245_0039_0FF6A063B3B8B130"/>
                   <head>EXPERIMENT LXII.</head>
                   <p>Let fall three or four drops of the solu<g ref="char:EOLhyphen"/>tion of the acetate of lead, into some rain water in a wine glass, and then add a small quantity of the solution of pot-ash, and the lead will fall down of a white color.</p>
                   <p>The acetic acid unites to the pot-ash, and forms acetate of pot-ash, while the lead is precipitated.</p>
@@ -710,7 +710,7 @@ When the pot-ash is added, it unites to the sulphuric acid, and forms sulphate o
                   <head>EXPERIMENT LXIV.</head>
                   <p>Write upon paper with the solution of su<g ref="char:EOLhyphen"/>gar of lead, and let the letters dry, and they will be invisible.</p>
                   <p>Rub about one drachm of sulphur, and as much pot-ash together in a mortar, until they are intimately mixed. Expose the powder on a shovel to a gentle heat until it
-<pb n="42" facs="tcp:033245_0040_0FF6A066A0230D00"/>
+<pb n="42" facs="unknown:033245_0040_0FF6A066A0230D00"/>
 becomes of a brown color, and sulphure of pot-ash will be formed. Put this into a wine glass, and add to it, a few drops of the sulphuric, nitric or muriatic acid dilut<g ref="char:EOLhyphen"/>ed with water, and sulphurated hydrogene or hepatic gas will be discharged. Hold the letters written with the solution of the a<g ref="char:EOLhyphen"/>cetate of lead, over the gas for some time and they will assume a brown color.</p>
                </div>
                <div n="65" type="experiment">
@@ -722,7 +722,7 @@ becomes of a brown color, and sulphure of pot-ash will be formed. Put this into 
             <div type="substance">
                <head>Of Iron.</head>
                <p>Iron is a metal of a white livid color; o<g ref="char:EOLhyphen"/>bedient to the magnet; gives fire with the
-<pb n="43" facs="tcp:033245_0041_0FF6A06C5501F1E8"/>
+<pb n="43" facs="unknown:033245_0041_0FF6A06C5501F1E8"/>
 flint; is susceptible of a fine polish, and is very difficult of fusion.</p>
                <div n="66" type="experiment">
                   <head>EXPERIMENT LXVI.</head>
@@ -739,7 +739,7 @@ flint; is susceptible of a fine polish, and is very difficult of fusion.</p>
                   <p>The salt formed by the union of the acid and metal, is sulphate of iron, green vitriol or copperas.</p>
                </div>
                <div n="69" type="experiment">
-                  <pb n="44" facs="tcp:033245_0042_0FF6A06FE765C120"/>
+                  <pb n="44" facs="unknown:033245_0042_0FF6A06FE765C120"/>
                   <head>EXPERIMENT LXIX.</head>
                   <p>Let fall a few drops of this solution of iron into some water in a wine glass, and add a small quantity of the solution of pot<g ref="char:EOLhyphen"/>ash to it, and the iron will be precipitated.</p>
                </div>
@@ -754,7 +754,7 @@ flint; is susceptible of a fine polish, and is very difficult of fusion.</p>
                   <p>The gallic acid of the alkohol of galls, unites to the iron, and forms a black insolu<g ref="char:EOLhyphen"/>ble salt.</p>
                </div>
                <div n="72" type="experiment">
-                  <pb n="45" facs="tcp:033245_0043_0FF6A071AC23CE00"/>
+                  <pb n="45" facs="unknown:033245_0043_0FF6A071AC23CE00"/>
                   <head>EXPERIMENT LXXII.</head>
                   <p>Add a few drops of the sulphuric, nitric, or muriatic acid, to the precipitated iron, and it will be redissolved, and a sulphate, nitrate, or muriate of iron will be formed.</p>
                </div>
@@ -766,7 +766,7 @@ flint; is susceptible of a fine polish, and is very difficult of fusion.</p>
                <div n="74" type="experiment">
                   <head>EXPERIMENT LXXIV.</head>
                   <p>Write on paper with the solution of the sulphate of iron, and dry the letters, and
-<pb n="46" facs="tcp:033245_0044_0FF6A0743A7149D8"/>
+<pb n="46" facs="unknown:033245_0044_0FF6A0743A7149D8"/>
 they will be invisible. Dip the end of a feather into the alcohol of galls, and rub it over the letters, and they will become black.</p>
                </div>
                <div n="75" type="experiment">
@@ -781,7 +781,7 @@ they will be invisible. Dip the end of a feather into the alcohol of galls, and 
                <div n="77" type="experiment">
                   <head>EXPERIMENT LXXVII.</head>
                   <p>Let fall a few drops of the solution of sulphate of iron into some water in a wine
-<pb n="47" facs="tcp:033245_0045_0FF6A07633D67E18"/>
+<pb n="47" facs="unknown:033245_0045_0FF6A07633D67E18"/>
 glass, and add to it a small portion of the prussiate of lime, and a blue color will be produced.</p>
                   <p>The prussic acid of the prussiate of lime, unites to the iron, and forms a blue insoluble compound, while the sulphuric acid of the sulphate of iron, unites to the lime and forms sulphate of lime.</p>
                   <p>Prussiate of pot-ash, is composed of the prussic acid and pot-ash.</p>
@@ -791,7 +791,7 @@ glass, and add to it a small portion of the prussiate of lime, and a blue color 
                   <p>Put two drachms of the best Prussian blue into a four ounce vial, and add to it one drachm of caustic pot-ash, dissolved in three ounces of water; set the mixture near the fire, and in a short time the liquor will be<g ref="char:EOLhyphen"/>come of a yellow color.</p>
                   <p>The pot-ash unites to the prussic acid, of the prussiate of iron, and forms prussiate of pot-ash, while the iron is left behind in the form of a brown salt.</p>
                   <p>
-                     <pb n="48" facs="tcp:033245_0046_0FF6A079551402E8"/>
+                     <pb n="48" facs="unknown:033245_0046_0FF6A079551402E8"/>
 This solution contains a portion of iron, which may be set free, by the addition of an acid.</p>
                </div>
                <div n="79" type="experiment">
@@ -809,7 +809,7 @@ This solution contains a portion of iron, which may be set free, by the addition
                </div>
             </div>
             <div type="substance">
-               <pb n="49" facs="tcp:033245_0047_0FF6A07C77FEA010"/>
+               <pb n="49" facs="unknown:033245_0047_0FF6A07C77FEA010"/>
                <head>Of Copper.</head>
                <p>Copper is a metal of a red color, elastic and sonorous, which affords a disagreeable smell by friction.</p>
                <p>Sulphate of copper or blue vitriol, is form<g ref="char:EOLhyphen"/>ed of the sulphuric acid and copper.</p>
@@ -822,7 +822,7 @@ This solution contains a portion of iron, which may be set free, by the addition
                   <head>EXPERIMENT LXXXIII.</head>
                   <p>Add some more of the ammoniac, and the precipitated copper will be dissolved, and form Aqua Sapphirina. By evaporating the liquor, the ammoniate of copper, or cu<g ref="char:EOLhyphen"/>prum ammoniacum, would be produced.</p>
                   <p>
-                     <pb n="50" facs="tcp:033245_0048_0FF6A07E9E5B9F28"/>
+                     <pb n="50" facs="unknown:033245_0048_0FF6A07E9E5B9F28"/>
 The ammoniate of copper is a test, for de<g ref="char:EOLhyphen"/>tecting the presence of arsenic in a liquid, with which it forms a precipitate of a yellow green color.</p>
                </div>
                <div n="84" type="experiment">
@@ -838,7 +838,7 @@ The ammoniate of copper is a test, for de<g ref="char:EOLhyphen"/>tecting the pr
                   <p>Let fall a few drops of this nitric solution of copper, into some water in a wine glass, and add to it a small quantity of the solution of pot-ash, and the copper will be precipi<g ref="char:EOLhyphen"/>tated.</p>
                </div>
                <div n="87" type="experiment">
-                  <pb n="51" facs="tcp:033245_0049_0FF6A08241E6A220"/>
+                  <pb n="51" facs="unknown:033245_0049_0FF6A08241E6A220"/>
                   <head>EXPERIMENT LXXXVII.</head>
                   <p>Add a few drops of the nitric acid, to the precipitated copper, and nitrate of copper will be recomposed.</p>
                   <p>A solution of copper in an acid, may be decomposed by iron.</p>
@@ -853,7 +853,7 @@ The ammoniate of copper is a test, for de<g ref="char:EOLhyphen"/>tecting the pr
                <head>Of Mercury.</head>
                <p>Mercury differs from the other metals, in retaining a fluid form, at the common tem<g ref="char:EOLhyphen"/>perature of the atmosphere.</p>
                <div n="89" type="experiment">
-                  <pb n="52" facs="tcp:033245_0050_0FF6A084F29C67D8"/>
+                  <pb n="52" facs="unknown:033245_0050_0FF6A084F29C67D8"/>
                   <head>EXPERIMENT LXXXIX.</head>
                   <p>Put a small quantity of mercury into a wine glass; add some of the nitric acid to it, and in a short time a violent action will ensue, accompanied with a discharge of ni<g ref="char:EOLhyphen"/>trous gas.</p>
                   <p>The nitric acid unites to the mercury, and forms nitrate of mercury.</p>
@@ -867,7 +867,7 @@ The ammoniate of copper is a test, for de<g ref="char:EOLhyphen"/>tecting the pr
                   <head>EXPERIMENT XCI.</head>
                   <p>Let fall a few drops of the solution of mercury in the nitric acid, upon a cent, and rub it over the copper, and the cent will be turned of a silver color.</p>
                   <p>
-                     <pb n="53" facs="tcp:033245_0051_0FF6A08844973778"/>
+                     <pb n="53" facs="unknown:033245_0051_0FF6A08844973778"/>
 The nitric acid unites with the copper, and forms nitrate of copper, while the mer<g ref="char:EOLhyphen"/>cury is deposited upon the copper in its me<g ref="char:EOLhyphen"/>tallic form.</p>
                </div>
                <div n="92" type="experiment">
@@ -881,7 +881,7 @@ The nitric acid unites with the copper, and forms nitrate of copper, while the m
                   <p>Let fall a few drops of the solution of cor<g ref="char:EOLhyphen"/>rosive sublimate into a glass of water; add to it some of the solution of pot-ash, and the mercury will fall down of a brick-dust co<g ref="char:EOLhyphen"/>lor.</p>
                </div>
                <div n="94" type="experiment">
-                  <pb n="54" facs="tcp:033245_0052_0FF6A08A80302438"/>
+                  <pb n="54" facs="unknown:033245_0052_0FF6A08A80302438"/>
                   <head>EXPERIMENT XCIV.</head>
                   <p>Let fall a few drops of the solution of cor<g ref="char:EOLhyphen"/>rosive sublimate into a glass of water, and add to it some lime water, and the mercury will be precipitated of a yellow color.</p>
                </div>
@@ -897,7 +897,7 @@ The nitric acid unites with the copper, and forms nitrate of copper, while the m
                   <head>EXPERIMENT XCVI.</head>
                   <p>Put four five penny bits into a wine glass, or wide mouthed vial, and pour upon them half an ounce of nitric acid diluted with an equal quantity of water. Let the vial stand near the fire, until the solution is eva<g ref="char:EOLhyphen"/>porated to dryness; then add to it two ounces of rain water.</p>
                   <p>
-                     <pb n="55" facs="tcp:033245_0053_0FF6A08D2A6731B0"/>
+                     <pb n="55" facs="unknown:033245_0053_0FF6A08D2A6731B0"/>
 The solution will assume a light green color, in consequence of the alloy of copper, which silver money contains.</p>
                </div>
                <div n="97" type="experiment">
@@ -914,7 +914,7 @@ The solution will assume a light green color, in consequence of the alloy of cop
                   <p>Add a few drops of the muriatic acid, or a grain of common salt to the clear solution, and Luna Cornea will be recomposed.</p>
                </div>
                <div n="100" type="experiment">
-                  <pb n="56" facs="tcp:033245_0054_0FF6A08F91046648"/>
+                  <pb n="56" facs="unknown:033245_0054_0FF6A08F91046648"/>
                   <head>EXPERIMENT C.</head>
                   <p>To make alcohol of galls, put one drachm of galls in fine powder, into a two ounce vial, and fill it up with spirit of wine.</p>
                </div>
@@ -923,7 +923,7 @@ The solution will assume a light green color, in consequence of the alloy of cop
       </body>
       <back>
          <div type="announcement">
-            <pb facs="tcp:033245_0055_0FF6A091D14DCB58"/>
+            <pb facs="unknown:033245_0055_0FF6A091D14DCB58"/>
             <head>Dr. Woodhouse's Lectures on Chemistry. Commence on the first Tuesday in November of every Year, in the City of Philadelphia, and end on the last Day of February.</head>
             <p>HE possesses a complete CHEMICAL APPARATUS; and during the Course, se<g ref="char:EOLhyphen"/>veral thousand brilliant Experiments are exhibited.</p>
             <p>Specimens of the various Earths, Salts, Ores of Metals, &amp;c. are shewn to the Class.</p>
@@ -931,7 +931,7 @@ The solution will assume a light green color, in consequence of the alloy of cop
                <hi>N. B. This Book should be read with some complete System of Chemistry, by which means an immense number of Experiments may be performed.</hi>
             </p>
             <p>
-               <pb facs="tcp:033245_0056_0FF6A0956FB46318"/>
+               <pb facs="unknown:033245_0056_0FF6A0956FB46318"/>
                <hi>The number of Agents can be increased to any extent.</hi>
             </p>
             <p>
